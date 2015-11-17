@@ -1,0 +1,26 @@
+{
+  "name": "dw-countries-select",
+  "authors": [
+    "Miguel Angel Alvarez <malvarez@desarrolloweb.com>"
+  ],
+  "description": "Select poblated with country names",
+  "main": "dw-countries-select.html",
+  "moduleType": [],
+  "keywords": [
+    "web-component"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.desarrolloweb.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests",
+    "country-names-js"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0"
+  }
+}
